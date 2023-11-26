@@ -2,15 +2,15 @@
 
 <h2>🔭Career</h2>
 <ul>
-    <li>大阪府立泉北高校 国際文化科卒業</li>
-    <li>同志社大学 商学部卒業</li>
-    <li>株式会社NewsPicks(2020/12~2023/12)
+    <li><b>大阪府立泉北高校 国際文化科卒業</b></li>
+    <li><b>同志社大学 商学部卒業</b></li>
+    <li><b>株式会社NewsPicks</b>(2020/12~2023/12)
         <ul>
             <li>インターン時代、マーケティング部署にて、アプリ「NewsPicks」のデータ分析、Webメディア「JobPicks」のデジタルマーケティングを担当（SEO・集客施策・記事分析・アクセス解析）</li>
             <li>新卒入社後、データアルゴリズム部署で、アプリ「NewsPicks」関連記事アルゴリズムの開発、データ基盤整備、MLOps/ DevOpsを実施</li>
         </ul>
     </li>
-    <li>副業にて、医療系データサイエンティスト
+    <li><b>副業にて、医療系データサイエンティスト</b>
         <ul>
             <li>外資系医薬品メーカーにて、MMM(マーケティングミックスモデリング）を用いて、営業最適化モデルを開発</li>
             <li>患者の電子カルテから、うつ病重症度予測モデルを構築</li>
@@ -19,7 +19,7 @@
             <li>論文から、アンメッド・メディカル・ニーズを抽出するモデル開発</li>
         </ul>
     </li>
-    <li>株式会社QuackShiftを共同創業(CTO)
+    <li><b>株式会社QuackShiftを共同創業</b>(CTO)
         <ul>
             <li>AI/DXソリューション事業</li>
             <li>ChatGPT/AI活用コンサルティング</li>
@@ -29,27 +29,27 @@
 
 <h2>🌱 My Skill</h2>
 <ul>
-    <li>AI・機械学習
+    <li><b>AI・機械学習</b>
         <ul>
             <li>画像認識</li>
             <li>自然言語処理</li>
             <li>レコメンデーション</li>
         </ul>
     </li>
-    <li>ML Ops</li>
-    <li>SEO
+    <li><b>ML Ops</b></li>
+    <li><b>SEO</b>
         <ul>
             <li>Google Analytics</li>
             <li>Search Console</li>
         </ul>
     </li>
-    <li>データ分析
+    <li><b>データ分析</b>
         <ul>
             <li>Tableau</li>
             <li>Metabase</li>
         </ul>
     </li>
-    <li>データエンジニアリング</li>
+    <li><b>データエンジニアリング</b></li>
 </ul>
 
 
