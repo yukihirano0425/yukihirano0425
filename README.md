@@ -23,6 +23,8 @@
 - アプリマーケティング
 - データエンジニアリング
 
+
+<H2>💻 About Engineering</H2>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukihirano0425&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yukihirano0425&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
