@@ -1,38 +1,62 @@
-<H1>ABOUT ME</H1>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Me</title>
+</head>
+<body>
+    <h1>ABOUT ME</h1>
 
-<H2>🔭Career</H2> 
-<p>大阪府立泉北高校 国際文化科卒業</p>
-<p>同志社大学 商学部卒業</p>
-<ol>株式会社NewsPicks(2020/12~2023/12)
-  <li>インターン時代、マーケティング部署にて、アプリ「NewsPicks」のデータ分析、Webメディア「JobPicks」のデジタルマーケティングを担当（SEO・集客施策・記事分析・アクセス解析</li>
-  <li>新卒入社後、データアルゴリズム部署で、アプリ「NewsPicks」関連記事アルゴリズムの開発、データ基盤整備、MLOps/ DevOpsを実施</li>
-</ol>
-- 株式会社NewsPicks(2020/12~2023/12)
-  - インターン時代、マーケティング部署にて、アプリ「NewsPicks」のデータ分析、Webメディア「JobPicks」のデジタルマーケティングを担当（SEO・集客施策・記事分析・アクセス解析）
-  - 新卒入社後、データアルゴリズム部署で、アプリ「NewsPicks」関連記事アルゴリズムの開発、データ基盤整備、MLOps/ DevOpsを実施
-- 副業にて、医療系データサイエンティスト
-  - 外資系医薬品メーカーにて、MMM(マーケティングミックスモデリング）を用いて、営業最適化モデルを開発
-  - 患者の電子カルテから、うつ病重症度予測モデルを構築
-  - 暗号化サービスの日本展開における、技術検証
-  - 大手銀行の家計簿アプリにて、広告レコメンドを開発
-  - 論文から、アンメッド・メディカル・ニーズを抽出するモデル開発
-- 株式会社QuackShiftを共同創業(CTO) 
-  - AI/DXソリューション事業
-  - ChatGPT/AI活用コンサルティング
+    <h2>🔭Career</h2>
+    <ul>
+        <li>大阪府立泉北高校 国際文化科卒業</li>
+        <li>同志社大学 商学部卒業</li>
+        <li>株式会社NewsPicks(2020/12~2023/12)
+            <ul>
+                <li>インターン時代、マーケティング部署にて、アプリ「NewsPicks」のデータ分析、Webメディア「JobPicks」のデジタルマーケティングを担当（SEO・集客施策・記事分析・アクセス解析）</li>
+                <li>新卒入社後、データアルゴリズム部署で、アプリ「NewsPicks」関連記事アルゴリズムの開発、データ基盤整備、MLOps/ DevOpsを実施</li>
+            </ul>
+        </li>
+        <li>副業にて、医療系データサイエンティスト
+            <ul>
+                <li>外資系医薬品メーカーにて、MMM(マーケティングミックスモデリング）を用いて、営業最適化モデルを開発</li>
+                <li>患者の電子カルテから、うつ病重症度予測モデルを構築</li>
+                <li>暗号化サービスの日本展開における、技術検証</li>
+                <li>大手銀行の家計簿アプリにて、広告レコメンドを開発</li>
+                <li>論文から、アンメッド・メディカル・ニーズを抽出するモデル開発</li>
+            </ul>
+        </li>
+        <li>株式会社QuackShiftを共同創業(CTO)
+            <ul>
+                <li>AI/DXソリューション事業</li>
+                <li>ChatGPT/AI活用コンサルティング</li>
+            </ul>
+        </li>
+    </ul>
 
-<H2>🌱 My Skill</H2>
-- AI・機械学習
-  - 画像認識
-  - 自然言語処理
-  - レコメンデーション
-- ML Ops
-- SEO
-  - Google Analytics
-  - Search Console
-- データ分析
-  - Tableau
-  - Metabase
-- データエンジニアリング
+    <h2>🌱 My Skill</h2>
+    <ul>
+        <li>AI・機械学習
+            <ul>
+                <li>画像認識</li>
+                <li>自然言語処理</li>
+                <li>レコメンデーション</li>
+            </ul>
+        </li>
+        <li>ML Ops</li>
+        <li>SEO
+            <ul>
+                <li>Google Analytics</li>
+                <li>Search Console</li>
+            </ul>
+        </li>
+        <li>データ分析
+            <ul>
+                <li>Tableau</li>
+                <li>Metabase</li>
+            </ul>
+        </li>
+        <li>データエンジニアリング</li>
+    </ul>
 
 
 <H2>💻 About Engineering</H2>
