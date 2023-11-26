@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukihirano0425
-)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukihirano0425
+)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukihirano0425)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukihirano0425)
 
 
 
