@@ -18,9 +18,16 @@
 
 <H2>🌱 My Skill</H2>
 - AI・機械学習
+  - 画像認識
+  - 自然言語処理
+  - レコメンデーション
 - ML Ops
-- デジタルマーケティング
-- アプリマーケティング
+- SEO
+  - Google Analytics
+  - Search Console
+- データ分析
+  - Tableau
+  - Metabase
 - データエンジニアリング
 
 
