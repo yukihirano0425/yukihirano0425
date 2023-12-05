@@ -63,3 +63,6 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukihirano0425&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yukihirano0425&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 </p>
+
+<h2>🖊️記事執筆・取材歴</h2>
+[Streamlit設計方針: 効果的なアプリケーションの構築を考える](https://zenn.dev/enterrocken/articles/2aaab79961e386)
