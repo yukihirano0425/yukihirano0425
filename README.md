@@ -65,4 +65,4 @@
 </p>
 
 <h2>🖊️記事執筆・取材歴</h2>
-[Streamlit設計方針: 効果的なアプリケーションの構築を考える](https://zenn.dev/enterrocken/articles/2aaab79961e386)
+<a href = "https://zenn.dev/enterrocken/articles/2aaab79961e386">Streamlit設計方針: 効果的なアプリケーションの構築を考える</a>
