@@ -66,3 +66,6 @@
 
 <h2>🖊️記事執筆・取材歴</h2>
 <a href = "https://zenn.dev/enterrocken/articles/2aaab79961e386">Streamlit設計方針: 効果的なアプリケーションの構築を考える</a>
+<a href = "https://zenn.dev/enterrocken/articles/e6ae6ddcc121d8">【X(Twitter) Bot】Ｘの運用がめんどくさい全ての人へ</a>
+<a href = "https://zenn.dev/enterrocken/articles/e60a2f267f385b">AWS CDKにテストを導入する</a>
+<a href = "https://www.uzabase.com/jp/journal/221219-uzabase-sql/">必要なデータをより早く。全メンバーが身につけたいデータ分析のスキルと知識──SQLを独学で学んだ新卒1年⽬メンバーが社内向け講座を開催</a>
