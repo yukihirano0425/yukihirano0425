@@ -36,7 +36,11 @@
             <li>レコメンデーション</li>
         </ul>
     </li>
-    <li><b>ML Ops</b></li>
+    <li><b>ML OpsやDevOps</b></li>
+         <ul>
+            <li>AWS SageMakerやDockerを用いたML Opsを構築</li>
+            <li>CodeBuildを使った、CIの自動化</li>
+        </ul>       
     <li><b>SEO</b>
         <ul>
             <li>Google Analytics</li>
