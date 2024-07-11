@@ -19,7 +19,7 @@
             <li>論文から、アンメッド・メディカル・ニーズを抽出するモデル開発</li>
         </ul>
     </li>
-    <li><b>株式会社QuackShift</b>(創業者/取締役CTO)
+    <li><b>株式会社QuackShift</b>(創業者/代表取締役)
         <ul>
             <li>AI/DXソリューション事業</li>
             <li>ChatGPT/AI活用コンサルティング</li>
